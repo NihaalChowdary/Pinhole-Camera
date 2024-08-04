@@ -5,8 +5,12 @@ A deep learning model developed using autoencoder architecture to enhance the cl
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Model Architecture](#model-architecture)
+   1. [Background](#background)
+   2. [Objectives](#objective)
+   3. [Approach](#approach)
+   4. [Significance](#significance)
+3. [Features](#features)
+4. [Model Architecture](#model-architecture)
 
 
 ## Introduction
