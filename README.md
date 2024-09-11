@@ -51,4 +51,4 @@ By advancing the capabilities of pinhole cameras through deep learning, this pro
 ![Architecture](https://github.com/NihaalChowdary/Pinhole-Camera/blob/main/long-skip-connection.jpg)
 
 ## Results
-![Results]()
+![Results](https://github.com/NihaalChowdary/Pinhole-Camera/blob/main/result.png)
