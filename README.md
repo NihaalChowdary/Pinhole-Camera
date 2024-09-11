@@ -46,3 +46,4 @@ By advancing the capabilities of pinhole cameras through deep learning, this pro
 
 ## Model Architecture
 ![Architecture](https://github.com/NihaalChowdary/Pinhole-Camera/blob/fd111bc7813e90db48fd171fc9fc3f0f7a7b2887/A-convolutional-autoencoder-for-latent-enhancement.png)
+![Architecture] (https://github.com/NihaalChowdary/Pinhole-Camera/blob/main/long-skip-connection.jpg)
